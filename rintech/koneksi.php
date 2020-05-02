@@ -1,0 +1,1 @@
+<?php $koneksi = new mysqli("sql200.epizy.com","epiz_25627082","tfU2zWc1O2","epiz_25627082_tokojam"); ?>
